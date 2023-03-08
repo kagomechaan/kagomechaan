@@ -1,7 +1,7 @@
 ## `Rhayza Fortuna` 💕
 
 - 🔭 Atuando como estagiária.
-- 🌱 Estou cursando sistemas da informação junto com a pós em big data. Sou formada em ciências contábeis e possúo curso técnico em informática.
+- 🌱 Estou cursando sistemas da informação junto com a pós em big data. Sou formada em ciências contábeis e técnica em informática.
 - 🤔 Sempre aberta à dicas de programação.
 - 😄 Adoro a área e adoro aprender sobre (TI) ! Qual caminho seguir? São tantos, preciso conhece-los para decidir.
 <div>
